@@ -132,7 +132,7 @@
     "@types/d3-shape": "3.1.6",
     "@types/d3-time": "3.0.3",
     "@types/d3-time-format": "3.0.4",
-    "@types/doctrine": "0.0.5",
+    "@types/doctrine": "0.0.9",
     "@types/ejs": "3.1.5",
     "@types/enzyme": "3.10.7",
     "@types/eslint": "9.6.1",
